@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-g-bhagat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="chandan-g-bhagat" /></p>
+
+<p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=chandan-g-bhagat&theme=juicyfresh&no-bg=true)](https://github.com/chandan-g-bhagat/github-profile-trophy)
+</p>
