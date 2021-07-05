@@ -10,8 +10,8 @@
 ✔ I’m looking to collaborate with any **Open - Source ML.NET projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 ✔ Fun fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
-⚠ **Training Materials as been moved to 👉https://github.com/Training-by-Chandan/**  😎  
-⚠ **Demo Materials as been moved to 👉https://github.com/Demo-by-Chandan/** <br><br><br><br>
+⚠ **Training Materials has been moved to 👉https://github.com/Training-by-Chandan/**  😎  
+⚠ **Demo Materials has been moved to 👉https://github.com/Demo-by-Chandan/** <br><br><br><br>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-g-bhagat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chandan Bhagat's Github Stats">
