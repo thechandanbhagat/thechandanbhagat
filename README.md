@@ -1,5 +1,5 @@
 ### Hi there 👋   
-Wanna to see my blog  : https://chandanbhagat.com.np  
+Wanna see my blog  : https://chandanbhagat.com.np  
 🕸 **Find me 👉 https://me.chandanbhagat.com.np** 🕸  
 💻 **A utility tool I have been working on with Angular and firebase : 👉https://util.chandanbhagat.com.np**   
 <br><br>
