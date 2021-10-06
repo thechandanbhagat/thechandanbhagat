@@ -8,10 +8,10 @@ Wanna see my blog  : https://chandanbhagat.com.np
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently trainer and freelancer for various companies<br>
-✔ I’m currently learning about **machine learning in ML.NET**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source ML.NET projects**<br>
+✔ I’m currently learning about **machine learning in ML.NET and Tensorflowjs**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source ML.NET and Tensorflowjs projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
-✔ Fun fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
+✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
 ⚠ **Training Materials has been moved to 👉https://github.com/Training-by-Chandan/**  😎  
 ⚠ **Demo Materials has been moved to 👉https://github.com/Demo-by-Chandan/**   
 <br><br><br><br>
