@@ -1,6 +1,8 @@
 ## Hi there 👋   
 I usually write at  : https://chandanbhagat.com.np  
 🕸 **Finding me 👉 https://me.chandanbhagat.com.np** 🕸  
+🕸 **Training 👉 https://training.chandanbhagat.com.np** 🕸  
+🕸 **Demo Materials 👉 https://demo-materials.chandanbhagat.com.np** 🕸  
 <br>  
 ### Some of my works
 💻 **A utility tool I have been working on with Angular and firebase : 👉https://util.chandanbhagat.com.np**   
