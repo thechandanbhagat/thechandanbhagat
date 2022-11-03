@@ -22,15 +22,15 @@ I usually write at  : https://chandanbhagat.com.np
 <br><br><br><br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-g-bhagat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chandan Bhagat's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thechandanbhagat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chandan Bhagat's Github Stats">
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-g-bhagat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="chandan-g-bhagat" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thechandanbhagat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thechandanbhagat" />  
 </p>      
   
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=chandan-g-bhagat&theme=juicyfresh&no-bg=true" alt="chandan-g-bhagat" />  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=thechandanbhagat&theme=juicyfresh&no-bg=true" alt="thechandanbhagat" />  
 
 </p>
 
