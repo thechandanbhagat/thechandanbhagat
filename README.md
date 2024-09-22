@@ -8,7 +8,7 @@ I usually write at  : https://chandanbhagat.com.np
 💻 **A utility tool I have been working on with Angular and firebase : 👉https://util.chandanbhagat.com.np**   
 💻 **A mathematical tool I have been working on with react : 👉https://math-tools.chandanbhagat.com.np**   
 <br>
-**find me in Upwork https://www.upwork.com/freelancers **
+**find me in Upwork https://www.upwork.com/freelancers/thechandanbhagat **
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me ....***
