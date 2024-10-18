@@ -21,7 +21,37 @@ I usually write at  : https://chandanbhagat.com.np
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
 ⚠ **Training Materials has been moved to 👉https://github.com/Training-by-Chandan/**  😎  
 ⚠ **Demo Materials has been moved to 👉https://github.com/Demo-by-Chandan/**   
-<br><br><br><br>
+<br>
+## Packages
+--- 
+### Nuget
+| Package Name  | Downloads |  
+| ------------- | --------- |  
+| dotnet-essential  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential?style=for-the-badge&logo=nuget) |   
+| dotnet-essential-aspnet-core  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-aspnet-core?style=for-the-badge&logo=nuget)  |   
+| dotnet-essential-az-function  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-az-function?style=for-the-badge&logo=nuget) |   
+| dotnet-essential-wpf  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-wpf?style=for-the-badge&logo=nuget) |   
+| Turboline.AI.API.Client  | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.AI.API.Client?style=for-the-badge&logo=nuget) |   
+| Turboline.AI.API.Client.Razor | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.AI.API.Client.Razor?style=for-the-badge&logo=nuget) |   
+| Turboline.NLQ2SQL.PostgresSQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.PostgresSQL?style=for-the-badge&logo=nuget) |   
+| Turboline.NLQ2SQL.MongoDB  | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MongoDB?style=for-the-badge&logo=nuget)  |   
+| Turboline.NLQ2SQL.MSSQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MSSQL?style=for-the-badge&logo=nuget) |   
+| Turboline.NLQ2SQL.MySQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MySQL?style=for-the-badge&logo=nuget) |  
+
+--- 
+### NPM
+| Package Name  | Downloads |  
+| ------------- | --------- |  
+| gitignr (last 18 months)| ![NPM Downloads](https://img.shields.io/npm/d18m/gitignr?style=for-the-badge&logo=npm) |   
+
+---
+### Powershell
+| Package Name  | Downloads |  
+| ------------- | --------- |  
+| UtilModule| ![PowerShell Gallery Downloads](https://img.shields.io/powershellgallery/dt/utilmodule?style=for-the-badge&logo=nuget) |   
+
+---
+<br>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thechandanbhagat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chandan Bhagat's Github Stats">
