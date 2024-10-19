@@ -55,7 +55,7 @@
 ### **AI & Machine Learning**
 ![ML.NET](https://img.shields.io/badge/-ML.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT API](https://img.shields.io/badge/-ChatGPT_API-1A73E8?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
