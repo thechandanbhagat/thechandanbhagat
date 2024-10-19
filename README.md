@@ -27,28 +27,28 @@ I usually write at  : https://chandanbhagat.com.np
 ### Nuget
 | Package Name  | Downloads |   Version |
 | ------------- | --------- |   --------- | 
-| dotnet-essential  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential?style=for-the-badge&logo=nuget) | ![Nuget Version](https://img.shields.io/nuget/v/dotnet-essential?style=for-the-badge&logo=nuget) |
-| dotnet-essential-aspnet-core  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-aspnet-core?style=for-the-badge&logo=nuget)  |   ![Nuget Version](https://img.shields.io/nuget/v/dotnet-essential-aspnet-core?style=for-the-badge&logo=nuget) |
-| dotnet-essential-az-function  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-az-function?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/dotnet-essential-az-function?style=for-the-badge&logo=nuget) |
-| dotnet-essential-wpf  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-wpf?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/dotnet-essential-wpf?style=for-the-badge&logo=nuget) |
-| Turboline.AI.API.Client  | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.AI.API.Client?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.AI.API.Client?style=for-the-badge&logo=nuget) |
-| Turboline.AI.API.Client.Razor | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.AI.API.Client.Razor?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.AI.API.Client.Razor?style=for-the-badge&logo=nuget) |
-| Turboline.NLQ2SQL.PostgresSQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.PostgresSQL?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.PostgresSQL?style=for-the-badge&logo=nuget) |
-| Turboline.NLQ2SQL.MongoDB  | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MongoDB?style=for-the-badge&logo=nuget)  |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.MongoDB?style=for-the-badge&logo=nuget) |
-| Turboline.NLQ2SQL.MSSQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MSSQL?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.MSSQL?style=for-the-badge&logo=nuget) |
-| Turboline.NLQ2SQL.MySQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MySQL?style=for-the-badge&logo=nuget) |  ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.MySQL?style=for-the-badge&logo=nuget) |
+| dotnet-essential  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential?style=for-the-badge&logo=nuget) | ![Nuget Version](https://img.shields.io/nuget/v/dotnet-essential?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| dotnet-essential-aspnet-core  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-aspnet-core?style=for-the-badge&logo=nuget)  |   ![Nuget Version](https://img.shields.io/nuget/v/dotnet-essential-aspnet-core?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| dotnet-essential-az-function  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-az-function?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/dotnet-essential-az-function?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| dotnet-essential-wpf  | ![NuGet Downloads](https://img.shields.io/nuget/dt/dotnet-essential-wpf?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/dotnet-essential-wpf?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| Turboline.AI.API.Client  | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.AI.API.Client?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.AI.API.Client?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| Turboline.AI.API.Client.Razor | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.AI.API.Client.Razor?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.AI.API.Client.Razor?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| Turboline.NLQ2SQL.PostgresSQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.PostgresSQL?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.PostgresSQL?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| Turboline.NLQ2SQL.MongoDB  | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MongoDB?style=for-the-badge&logo=nuget)  |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.MongoDB?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| Turboline.NLQ2SQL.MSSQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MSSQL?style=for-the-badge&logo=nuget) |   ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.MSSQL?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
+| Turboline.NLQ2SQL.MySQL   | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MySQL?style=for-the-badge&logo=nuget) |  ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.MySQL?style=for-the-badge&logo=nuget&label=Nuget%20Version) |
 
 --- 
 ### NPM
 | Package Name  | Downloads |   Version |
 | ------------- | --------- |   --------- | 
-| gitignr (last 18 months)| ![NPM Downloads](https://img.shields.io/npm/d18m/gitignr?style=for-the-badge&logo=npm) |  ![NPM Version](https://img.shields.io/npm/v/gitignr?style=for-the-badge&logo=npm) |
+| gitignr (last 18 months)| ![NPM Downloads](https://img.shields.io/npm/d18m/gitignr?style=for-the-badge&logo=npm) |  ![NPM Version](https://img.shields.io/npm/v/gitignr?style=for-the-badge&logo=npm&label=NPM%20Version) |
 
 ---
 ### Powershell
 | Package Name  | Downloads |  Version |
 | ------------- | --------- | --------- | 
-| UtilModule| ![PowerShell Gallery Downloads](https://img.shields.io/powershellgallery/dt/utilmodule?style=for-the-badge&logo=nuget) |  ![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/utilmodule?style=for-the-badge&logo=nuget) |
+| UtilModule| ![PowerShell Gallery Downloads](https://img.shields.io/powershellgallery/dt/utilmodule?style=for-the-badge&logo=nuget) |  ![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/utilmodule?style=for-the-badge&logo=nuget&label=Powershell%20Version) |
 
 ---
 <br>
