@@ -51,6 +51,8 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure Bicep](https://img.shields.io/badge/Azure_Bicep-CC2936?style=for-the-badge&logo=azure&logoColor=white)
 
 ### **AI & Machine Learning**
 ![ML.NET](https://img.shields.io/badge/-ML.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
