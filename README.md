@@ -1,10 +1,62 @@
 # Hi there! 👋 I'm Chandan Bhagat  
-[![Website Badge](https://img.shields.io/badge/-Website-4cbbb9?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://chandanbhagat.com.np) [![Upwork Badge](https://img.shields.io/badge/Upwork-Freelancer-ff8c00?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/thechandanbhagat)
+[![Website Badge](https://img.shields.io/badge/-Website-4cbbb9?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://chandanbhagat.com.np) [![Upwork Badge](https://img.shields.io/badge/Upwork-Freelancer-ff8c00?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/thechandanbhagat) [![Personal Site](https://img.shields.io/badge/Personal_Site-4cbbb9?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://me.chandanbhagat.com.np)
 
-### 🔗 **Find Me Online**:
-- 🕸 [Personal Site](https://me.chandanbhagat.com.np)
-- 🕸 [Training Materials](https://training.chandanbhagat.com.np)
-- 🕸 [Demo Materials](https://demo-materials.chandanbhagat.com.np)
+### 🔗 **Materials**:
+[![Training Materials](https://img.shields.io/badge/Training_Materials-0078D4?style=for-the-badge&logo=microsoftacademia&logoColor=white)](https://training.chandanbhagat.com.np)
+[![Demo Materials](https://img.shields.io/badge/Demo_Materials-FFCA28?style=for-the-badge&logo=googleclassroom&logoColor=black)](https://demo-materials.chandanbhagat.com.np)
+
+---
+
+## 💻 **Skills**
+
+### **Languages & Frameworks**
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Databases**
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/-CosmosDB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+### **Cloud Platforms**
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+
+### **AI & Machine Learning**
+![ML.NET](https://img.shields.io/badge/-ML.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT API](https://img.shields.io/badge/-ChatGPT_API-1A73E8?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -36,29 +88,6 @@
 | Package Name    | Downloads                                                                                         | Version                                                                                      |
 | --------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | `UtilModule`    | ![PowerShell Gallery Downloads](https://img.shields.io/powershellgallery/dt/utilmodule?style=for-the-badge&logo=nuget) | ![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/utilmodule?style=for-the-badge&logo=nuget&label=Powershell%20Version) |
-
----
-
-## 💻 **Skills**
-
-### ![Static Badge](https://img.shields.io/badge/Development-blue?style=for-the-badge&logo=htmx)
-- .NET Core, C#, ASP.NET, ASP.NET Core, ASP.NET Web API, Angular, React, Next.js, JavaScript, HTML, CSS, Python, PHP, VB.NET, Node.js, Typescript
-- SQL, LINQ, MSSQL, MySQL, MongoDB, Cosmos DB, RDBMS, NoSQL
-- Object-Oriented Design, SOLID Principles, Microservices, Multithreading, Debugging, Unit Testing
-- Xamarin, SignalR, WPF, Mobile App Development
-- ML.NET, TensorFlow, Generative AI, OpenAI, ChatGPT API, gRPC, Twilio
-- Microsoft Visual Studio, Visual Studio Code, NuGet, NPM
-
-### ![Static Badge](https://img.shields.io/badge/Cloud-blue?style=for-the-badge&logo=icloud)
-- Azure (Azure Functions, Blob Storage, App Services, AKS, Service Bus, SignalR Services, Cosmos DB)
-- Azure OpenAI, Azure DevOps, Amazon Web Services (AWS), Google Cloud, Firebase
-- Containerization with Docker, Kubernetes, Azure Container Instances
-- Redis Cache, Logic Apps, EventHub, Service Bus, API Management, Salesforce Integration
-
-### ![Static Badge](https://img.shields.io/badge/Devops-blue?style=for-the-badge&logo=htmx)
-- CI/CD, Azure DevOps, GitHub Actions, Jenkins, Docker, Kubernetes
-- Infrastructure as Code, Grafana, PowerShell, Shell Script, AZ CLI, Nginx
-- GitHub, GitLab, Biceps, Azure Pipelines
 
 ---
 
