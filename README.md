@@ -17,13 +17,6 @@
   <a href="https://demo-materials.chandanbhagat.com.np"><img src="https://img.shields.io/badge/Demo_Materials-FFCA28?style=for-the-badge&logo=googleclassroom&logoColor=black" alt="Demo Materials"/></a>
 </div>
 
----
-### 🔗 **Materials**:
-[![Training Materials](https://img.shields.io/badge/Training_Materials-0078D4?style=for-the-badge&logo=microsoftacademia&logoColor=white)](https://training.chandanbhagat.com.np)
-[![Demo Materials](https://img.shields.io/badge/Demo_Materials-FFCA28?style=for-the-badge&logo=googleclassroom&logoColor=black)](https://demo-materials.chandanbhagat.com.np)
-
----
-
 ## 💻 **Skills**
 
 ### **Languages & Frameworks**
