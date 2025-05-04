@@ -143,19 +143,15 @@ This extension helps you navigate and organize your codebase based on functional
 </div>
 
 ---
+<summary><h2>📊 GitHub Stats</h2></summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thechandanbhagat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chandan Bhagat's Github Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thechandanbhagat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" width="40%" />
+</div>
 
-## 📊 **GitHub Stats**
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thechandanbhagat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chandan Bhagat's Github Stats" />
-</p>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thechandanbhagat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
-</p>
-
-<p align='center'>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=thechandanbhagat&theme=juicyfresh&no-bg=true" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thechandanbhagat&theme=juicyfresh&no-bg=true&row=1" alt="GitHub Trophies" width="90%" />
+</div>
 
 ---
 
