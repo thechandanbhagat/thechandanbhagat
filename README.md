@@ -1,6 +1,23 @@
-# Hi there! 👋 I'm Chandan Bhagat  
-[![Website Badge](https://img.shields.io/badge/-Website-4cbbb9?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://chandanbhagat.com.np) [![Upwork Badge](https://img.shields.io/badge/Upwork-Freelancer-ff8c00?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/thechandanbhagat) [![Personal Site](https://img.shields.io/badge/Personal_Site-4cbbb9?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://me.chandanbhagat.com.np) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guptac) [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thechandanbhagat)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thechandanbhagat/thechandanbhagat/main/resources/group-code.svg" width="150px" alt="Chandan Bhagat Logo">
+  <h1>Chandan Bhagat</h1>
+  <p><em>Software Developer | Trainer | Freelancer</em></p>
+  
+  <p align="center">
+    <a href="https://chandanbhagat.com.np"><img src="https://img.shields.io/badge/Website-4cbbb9?style=for-the-badge&logo=web&logoColor=white" alt="Website"/></a>
+    <a href="https://www.upwork.com/freelancers/thechandanbhagat"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+    <a href="https://me.chandanbhagat.com.np"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/guptac"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com/thechandanbhagat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </p>
+</div>
 
+<div align="center">
+  <a href="https://training.chandanbhagat.com.np"><img src="https://img.shields.io/badge/Training_Materials-0078D4?style=for-the-badge&logo=microsoftacademia&logoColor=white" alt="Training Materials"/></a>
+  <a href="https://demo-materials.chandanbhagat.com.np"><img src="https://img.shields.io/badge/Demo_Materials-FFCA28?style=for-the-badge&logo=googleclassroom&logoColor=black" alt="Demo Materials"/></a>
+</div>
+
+---
 ### 🔗 **Materials**:
 [![Training Materials](https://img.shields.io/badge/Training_Materials-0078D4?style=for-the-badge&logo=microsoftacademia&logoColor=white)](https://training.chandanbhagat.com.np)
 [![Demo Materials](https://img.shields.io/badge/Demo_Materials-FFCA28?style=for-the-badge&logo=googleclassroom&logoColor=black)](https://demo-materials.chandanbhagat.com.np)
