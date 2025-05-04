@@ -67,25 +67,21 @@
 ---
 
 ### 🧩 **VS Code Extensions**
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
-    <h3>Group Code for VS Code</h3>
-    <p>This extension helps you navigate and organize your codebase based on functionality rather than just files. Using special comments to tag related code sections across multiple files and languages, it creates a unified view that makes it easier to understand and work with your project's different functional components.</p>
-    <h4>Features:</h4>
-    <ul>
-      <li><strong>Cross-File Organization</strong>: Group related code blocks from different file types under a common functionality</li>
-      <li><strong>Unified View</strong>: Access all related code sections through the dedicated Group Code Explorer</li>
-      <li><strong>40+ Languages Support</strong>: Works with JavaScript, TypeScript, Python, C#, Java, Go, HTML, CSS, and many more</li>
-      <li><strong>Quick Navigation</strong>: Jump between related code sections with a single click</li>
-      <li><strong>Automatic Scanning</strong>: Detects code groups in your workspace automatically</li>
-      <li><strong>Status Bar Integration</strong>: Quick access to code groups from the VS Code status bar</li>
-    </ul>
-    <a href="https://marketplace.visualstudio.com/items/?itemName=thechandanbhagat.groupcode">View in Marketplace</a>
-  </div>
-  <div style="flex: 0 0 40%;">
-    <img src="resources/group-code.svg" alt="Group Code for VS Code" style="width: 100%; max-width: 300px;">
-  </div>
-</div>
+
+#### Group Code for VS Code
+![Group Code for VS Code](resources/group-code.svg)
+
+This extension helps you navigate and organize your codebase based on functionality rather than just files. Using special comments to tag related code sections across multiple files and languages, it creates a unified view that makes it easier to understand and work with your project's different functional components.
+
+**Features:**
+- **Cross-File Organization**: Group related code blocks from different file types under a common functionality
+- **Unified View**: Access all related code sections through the dedicated Group Code Explorer
+- **40+ Languages Support**: Works with JavaScript, TypeScript, Python, C#, Java, Go, HTML, CSS, and many more
+- **Quick Navigation**: Jump between related code sections with a single click
+- **Automatic Scanning**: Detects code groups in your workspace automatically
+- **Status Bar Integration**: Quick access to code groups from the VS Code status bar
+
+[View in Marketplace](https://marketplace.visualstudio.com/items/?itemName=thechandanbhagat.groupcode)
 
 ---
 
