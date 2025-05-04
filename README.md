@@ -33,14 +33,12 @@
 ![Cosmos DB](https://img.shields.io/badge/-CosmosDB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
 ### **Cloud Platforms**
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
-
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,6 +63,29 @@
 ### 🚀 **Projects & Tools**  
 💻 [**Utility Tool (Angular + Firebase)**](https://util.chandanbhagat.com.np)  
 💻 [**Math Tools (React)**](https://math-tools.chandanbhagat.com.np)
+
+---
+
+### 🧩 **VS Code Extensions**
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <h3>Group Code for VS Code</h3>
+    <p>This extension helps you navigate and organize your codebase based on functionality rather than just files. Using special comments to tag related code sections across multiple files and languages, it creates a unified view that makes it easier to understand and work with your project's different functional components.</p>
+    <h4>Features:</h4>
+    <ul>
+      <li><strong>Cross-File Organization</strong>: Group related code blocks from different file types under a common functionality</li>
+      <li><strong>Unified View</strong>: Access all related code sections through the dedicated Group Code Explorer</li>
+      <li><strong>40+ Languages Support</strong>: Works with JavaScript, TypeScript, Python, C#, Java, Go, HTML, CSS, and many more</li>
+      <li><strong>Quick Navigation</strong>: Jump between related code sections with a single click</li>
+      <li><strong>Automatic Scanning</strong>: Detects code groups in your workspace automatically</li>
+      <li><strong>Status Bar Integration</strong>: Quick access to code groups from the VS Code status bar</li>
+    </ul>
+    <a href="https://marketplace.visualstudio.com/items/?itemName=thechandanbhagat.groupcode">View in Marketplace</a>
+  </div>
+  <div style="flex: 0 0 40%;">
+    <img src="resources/group-code.svg" alt="Group Code for VS Code" style="width: 100%; max-width: 300px;">
+  </div>
+</div>
 
 ---
 
@@ -94,16 +115,26 @@
 ---
 
 ## 💬 **About Me**
-<img align="right" width="200px" height="200px" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-- **Pronouns**: He/His or TeamWorker 😊  
-- I’m currently working as a **trainer** and **freelancer** for various companies.  
-- Currently exploring **Machine Learning with ML.NET** and **TensorFlow.js**.  
-- Looking to collaborate on **Open Source ML.NET** and **TensorFlow.js projects**.  
-- Real fact: _I always try to LEARN and SHARE._ 😎  
-- ⚠ **Training Materials** and **Demo Materials** moved to GitHub repositories:  
-  - [Training Materials](https://github.com/Training-by-Chandan)  
-  - [Demo Materials](https://github.com/Demo-by-Chandan)  
+<div style="display: flex; align-items: top; gap: 20px;">
+  <div style="flex: 1;">
+    <ul>
+      <li><strong>Pronouns</strong>: He/His or TeamWorker 😊</li>
+      <li>I'm currently working as a <strong>trainer</strong> and <strong>freelancer</strong> for various companies.</li>
+      <li>Currently exploring <strong>Machine Learning with ML.NET</strong> and <strong>TensorFlow.js</strong>.</li>
+      <li>Looking to collaborate on <strong>Open Source ML.NET</strong> and <strong>TensorFlow.js projects</strong>.</li>
+      <li>Real fact: <em>I always try to LEARN and SHARE.</em> 😎</li>
+      <li>⚠ <strong>Training Materials</strong> and <strong>Demo Materials</strong> moved to GitHub repositories:
+        <ul>
+          <li><a href="https://github.com/Training-by-Chandan">Training Materials</a></li>
+          <li><a href="https://github.com/Demo-by-Chandan">Demo Materials</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div style="flex: 0 0 40%; text-align: center;">
+    <img width="200px" height="200px" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  </div>
+</div>
 
 ---
 
