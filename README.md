@@ -109,8 +109,21 @@ This extension helps you navigate and organize your codebase based on functional
 | `Turboline.NLQ2SQL.MySQL`           | ![NuGet Downloads](https://img.shields.io/nuget/dt/Turboline.NLQ2SQL.MySQL?style=for-the-badge&logo=nuget)    | ![Nuget Version](https://img.shields.io/nuget/v/Turboline.NLQ2SQL.MySQL?style=for-the-badge&logo=nuget)   |
 
 ### 📦 **NPM Packages**
+
+#### CV Forge - Intelligent CV Generator
+An intelligent MCP (Model Context Protocol) server that analyzes job postings and crafts perfectly-matched CVs. Generate tailored CVs, cover letters, and email templates optimized for Applicant Tracking Systems (ATS).
+
+**Features:**
+- Parse job requirements and extract key information
+- Generate tailored CVs, cover letters, and email templates
+- Multiple output formats (PDF, HTML, Markdown)
+- ATS-friendly optimization
+
+[View on NPM](https://www.npmjs.com/package/cv-forge) | [View on GitHub](https://github.com/thechandanbhagat/cv-forge)
+
 | Package Name    | Downloads                                                                                         | Version                                                                                      |
 | --------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| `cv-forge`      | ![NPM Downloads](https://img.shields.io/npm/d18m/cv-forge?style=for-the-badge&logo=npm)            | ![NPM Version](https://img.shields.io/npm/v/cv-forge?style=for-the-badge&logo=npm&label=NPM%20Version) |
 | `gitignr`       | ![NPM Downloads](https://img.shields.io/npm/d18m/gitignr?style=for-the-badge&logo=npm)             | ![NPM Version](https://img.shields.io/npm/v/gitignr?style=for-the-badge&logo=npm&label=NPM%20Version) |
 
 ### 🔧 **PowerShell Modules**
