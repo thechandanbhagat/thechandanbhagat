@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thechandanbhagat/thechandanbhagat/main/resources/group-code.svg" width="150px" alt="Chandan Bhagat Logo">
+  <img src="https://raw.githubusercontent.com/thechandanbhagat/khukuri/main/assets/khukuri.png" width="150px" alt="Chandan Bhagat Logo">
   <h1>Chandan Bhagat</h1>
   <p><em>Software Developer | Trainer | Freelancer</em></p>
   
