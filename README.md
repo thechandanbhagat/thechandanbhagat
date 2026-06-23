@@ -119,6 +119,10 @@ An intelligent MCP (Model Context Protocol) server that analyzes job postings an
 | --------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | `cv-forge`      | ![NPM Downloads](https://img.shields.io/npm/d18m/cv-forge?style=for-the-badge&logo=npm)            | ![NPM Version](https://img.shields.io/npm/v/cv-forge?style=for-the-badge&logo=npm&label=NPM%20Version) |
 | `gitignr`       | ![NPM Downloads](https://img.shields.io/npm/d18m/gitignr?style=for-the-badge&logo=npm)             | ![NPM Version](https://img.shields.io/npm/v/gitignr?style=for-the-badge&logo=npm&label=NPM%20Version) |
+| `ezpm2gui`       | ![NPM Downloads](https://img.shields.io/npm/d18m/ezpm2gui?style=for-the-badge&logo=npm)             | ![NPM Version](https://img.shields.io/npm/v/ezpm2gui?style=for-the-badge&logo=npm&label=NPM%20Version) |
+| `ms-rule-engine`       | ![NPM Downloads](https://img.shields.io/npm/d18m/ms-rule-engine?style=for-the-badge&logo=npm)             | ![NPM Version](https://img.shields.io/npm/v/ms-rule-engine?style=for-the-badge&logo=npm&label=NPM%20Version) |
+| `@chandan.bhagat/claude-man`       | ![NPM Downloads](https://img.shields.io/npm/d18m/@chandan.bhagat/claude-man?style=for-the-badge&logo=npm)             | ![NPM Version](https://img.shields.io/npm/v/@chandan.bhagat/claude-man?style=for-the-badge&logo=npm&label=NPM%20Version) |
+| `ezkafka-visualizer`       | ![NPM Downloads](https://img.shields.io/npm/d18m/ezkafka-visualizer?style=for-the-badge&logo=npm)             | ![NPM Version](https://img.shields.io/npm/v/ezkafka-visualizer?style=for-the-badge&logo=npm&label=NPM%20Version) |
 
 ### 🔧 **PowerShell Modules**
 | Package Name    | Downloads                                                                                         | Version                                                                                      |
